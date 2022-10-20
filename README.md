@@ -1,2 +1,1 @@
-Project: Lemonade App
-==================================
+a very simple application
